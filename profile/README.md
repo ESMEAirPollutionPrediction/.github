@@ -10,6 +10,8 @@ All aspects of the project have their own repository.
 
 [EmissionsData](https://github.com/ESMEAirPollutionPrediction/EmissionsData) contains the study and use of the european pollutants emissions data.
 
+[WeatherData](https://github.com/ESMEAirPollutionPrediction/WeatherData) contains the use of [Open-Meteo](https://open-meteo.com/en/docs)'s API to get weather forecasts and historical data
+
 ## Context and Motivation
 
 Urbanization and industrialization may lead to several problems, including logistics, healthcare, and air-quality issues. 
