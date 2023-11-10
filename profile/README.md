@@ -1,8 +1,8 @@
-# PFE-ESME-predict_cities_air_pollution
+# End of studies project - ESME - Predicting Cities' Air Pollution Levels through Machine Learning  
+
+Currently ongoing, scheduled to be done by February 2024
 
 ## Members :  [Laurent NOPOLY](https://github.com/LauNop), [Robin LOTODE](https://github.com/Robibibi), [Kalani CHANFOUR](https://github.com/KCHANFOUR)
-
-## Predicting Cities' Air Pollution Levels through Machine Learning  
 
 ## Project Structure
 
